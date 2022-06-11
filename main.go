@@ -1,14 +1,10 @@
-package auth
-
+package main
+ 
 import (
-"fmt";
+    "fmt";
 )
-
-
-
-
-func Rregistration(){
-fmt.Println("ok")
-
-
+ 
+func main() {
+   
+    fmt.Printf("go go go")
 }
