@@ -1,1 +1,1 @@
-# -go-http-auth-
+# http-auth-
