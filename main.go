@@ -4,7 +4,7 @@ import (
     "fmt";
 )
  
-func main() {
+func test() {
    
     fmt.Printf("go go go")
 }
